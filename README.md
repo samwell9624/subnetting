@@ -1,6 +1,6 @@
-##The program is to be used for educational purposes only.
-##The program is open source, you can redistribute it and/or modify
-##Hope the program will be useful for you.
+## The program is to be used for educational purposes only.
+## The program is open source, you can redistribute it and/or modify
+## Hope the program will be useful for you.
 
 # About the bugs
 ### Since I am a beginner, there may be some bugs in the program.
